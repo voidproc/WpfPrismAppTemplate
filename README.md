@@ -2,6 +2,8 @@
 
 Visual Studio C# project template for creating MVVM style WPF (.NET Standard) applications using [Prism](https://github.com/PrismLibrary/Prism).
 
+<img src="https://raw.githubusercontent.com/voidproc/WpfPrismAppTemplate/images/screenshot.png" width="500">
+
 ## Requirements
 
 - Visual Studio 2019
